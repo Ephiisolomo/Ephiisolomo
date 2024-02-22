@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ephiisolomo&show_icons=true&locale=en" alt="ephiisolomo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ephiisolomo&" alt="ephiisolomo" /></p>
-[![Ephiisolomo's GitHub | Stats](https://stats.quine.sh/Ephiisolomo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ephiisolomo)
+<p>[![Ephiisolomo's GitHub | Stats](https://stats.quine.sh/Ephiisolomo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ephiisolomo)</p>
