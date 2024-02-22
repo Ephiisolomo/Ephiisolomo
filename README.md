@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ephiisolomo&" alt="ephiisolomo" /></p>
 <
-[![Ephiisolomo's GitHub | Stats]<img src="https://stats.quine.sh/Ephiisolomo/github?theme=light"/><img align="center" src="https://quine.sh?utm_source=widgets&utm_campaign=Ephiisolomo" />
+<p><a href ="https://quine.sh?utm_source=widgets&utm_campaign=Ephiisolomo"><img align="center" src="https://stats.quine.sh/Ephiisolomo/github?theme=light"/></a></p>
