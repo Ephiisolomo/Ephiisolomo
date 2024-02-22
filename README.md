@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ephraimsolomon9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ephraimsolomon9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/ephraim-solomon-4a5594151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ephraim-solomon-4a5594151" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ephi.solo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ephi.solo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ephraim-solomon-4a5594151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ephraim-solomon-4a5594151" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9363456/ephi-solo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ephi.solo" height="30" width="40" /></a>
 <a href="https://instagram.com/ephraimsolomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ephraimsolomon" height="30" width="40" /></a>
 </p>
 
