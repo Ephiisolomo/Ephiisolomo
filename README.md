@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ephraim solomon</h1>
 <h3 align="center">A passionate back-end guru from Ethiopia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ephiisolomo&label=Profile%20views&color=0e75b6&style=flat" alt="Ephiisolomo" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ephiisolomo" alt="ephiisolomo" /></a> </p>
 
-- 🔭 I’m currently working on **Dynamic websites**
+- 🔭 I’m currently working on **PEP (Productivity Enhancement Platform) ERP Project**
 
 - 👯 I’m looking to collaborate on **Any freelance or long term projects**
 
