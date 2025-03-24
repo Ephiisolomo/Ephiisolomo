@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ephiisolomo&label=Profile%20views&color=0e75b6&style=flat" alt="Ephiisolomo" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ephiisolomo" alt="ephiisolomo" /></a> </p>
 
-- 🔭 I’m currently working on **PEP (Productivity Enhancement Platform) ERP Project**
+- 🔭 I’m currently working on **ERP and suite of products**
 
-- 👯 I’m looking to collaborate on **Any freelance or long term projects**
+- 👯 I’m looking to collaborate on **Any freelance or long-term projects**
 
-- 💬 Ask me about **PHP and OfCourse Laravel**
+- 💬 Ask me about **PHP, AWS and OfCourse Laravel**
 
 - 📫 How to reach me **ephred1254@gmail.com**
 
